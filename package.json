@@ -1,6 +1,6 @@
 {
   "name": "json3",
-  "version": "3.3.2",
+  "version": "3.3.3-beta",
   "description": "A modern JSON implementation compatible with nearly all JavaScript platforms.",
   "homepage": "https://bestiejs.github.io/json3",
   "main": "./lib/json3",
